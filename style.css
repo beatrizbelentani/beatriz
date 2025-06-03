@@ -5,3 +5,15 @@ body{
 strong{
     color:rgb(11, 2, 131);
 }
+h1{
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    font-size: 36px;
+    color: aqua;
+}
+img{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
