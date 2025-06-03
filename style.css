@@ -13,7 +13,7 @@ h1{
     color: aqua;
 }
 img{
-    position: absolute;
+    position: center;
     top: 50px;
     left: 100px;
 }
