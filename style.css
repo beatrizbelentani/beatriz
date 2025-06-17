@@ -1,16 +1,16 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(150, 60, 7);
     color:rgb(247, 255, 255)
 }
 strong{
-    color:rgb(172, 94, 6);
+    color:rgb(247, 255, 255);
 }
 h1{
     margin: 20px;
     padding: 10px;
     text-align: center;
     font-size: 36px;
-    color: rgb(231, 155, 54);
+    color: rgb(230, 164, 79);
 }
 img{
     position: left;
