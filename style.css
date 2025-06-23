@@ -18,3 +18,10 @@ img{
     left: 50px;
     right: 50px;
 }
+.central{
+    display: flex;
+    justify-content: center;
+align-items: center;
+height: 100vh;
+flex-direction: column;
+}
